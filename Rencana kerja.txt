@@ -1,0 +1,36 @@
+Data Understanding :
+1. eda
+2. preprocessing
+3. feature engineering 1
+4. univariate
+5. multivariate
+6. visualchart
+7. insight
+8. business recomendation
+
+Pre-Modeling :
+9. feature engineering 2 (one hot shoe categorical)
+10. outliers
+11. handling imbalance
+12. WOE (Weight of Evidence) and IV (Information Value) 
+13. Scorecard :
+- varible selection
+- WOE Binning
+- WOE Transformation
+- logistic regression
+- scorecard development
+- score calculation
+- score interpretation
+- score validation
+
+Penerapan Predictive Model :
+14. feature selection
+15. scalling & splitting
+16. Regressi (which & why?)
+17. Model Training
+13. XGBoost
+14. HyperParameter Tuning
+15. Ensemble 
+16. Evaluation : confussion matrix
+
+Machine Learning 
