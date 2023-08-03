@@ -1,26 +1,26 @@
 Loan Prediction Based on Customer Behavior
 
-EDA
-df.info()
-RangeIndex: 252000 entries, 0 to 251999
-Data columns (total 13 columns):
- #   Column             Non-Null Count   Dtype 
----  ------             --------------   ----- 
- 0   Id                 252000 non-null  int64 
- 1   Income             252000 non-null  int64 
- 2   Age                252000 non-null  int64 
- 3   Experience         252000 non-null  int64 
- 4   Married/Single     252000 non-null  object
- 5   House_Ownership    252000 non-null  object
- 6   Car_Ownership      252000 non-null  object
- 7   Profession         252000 non-null  object
- 8   CITY               252000 non-null  object
- 9   STATE              252000 non-null  object
- 10  CURRENT_JOB_YRS    252000 non-null  int64 
- 11  CURRENT_HOUSE_YRS  252000 non-null  int64 
- 12  Risk_Flag          252000 non-null  int64 
-dtypes: int64(7), object(6)
-memory usage: 25.0+ MB
+EDA            
+df.info()             
+RangeIndex: 252000 entries, 0 to 251999                   
+Data columns (total 13 columns):                 
+ #   Column             Non-Null Count   Dtype                      
+---  ------             --------------   -----                         
+ 0   Id                 252000 non-null  int64                          
+ 1   Income             252000 non-null  int64                      
+ 2   Age                252000 non-null  int64                   
+ 3   Experience         252000 non-null  int64                     
+ 4   Married/Single     252000 non-null  object                   
+ 5   House_Ownership    252000 non-null  object                  
+ 6   Car_Ownership      252000 non-null  object                      
+ 7   Profession         252000 non-null  object                     
+ 8   CITY               252000 non-null  object                       
+ 9   STATE              252000 non-null  object                        
+ 10  CURRENT_JOB_YRS    252000 non-null  int64                            
+ 11  CURRENT_HOUSE_YRS  252000 non-null  int64                                 
+ 12  Risk_Flag          252000 non-null  int64                             
+dtypes: int64(7), object(6)                             
+memory usage: 25.0+ MB                              
 
 Data Preprocessing
 # A. Menyamakan Style Pada Kolom
