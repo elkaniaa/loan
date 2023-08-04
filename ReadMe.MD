@@ -9,7 +9,7 @@ Data columns (total 13 columns):
      
  #   Column             Non-Null Count   Dtype                      
 ---  ------             --------------   -----                         
- 0   Id                 252000 non-null  int64                          
+ 0   Id................                 252000 non-null  int64                          
  1   Income             252000 non-null  int64                      
  2   Age                252000 non-null  int64                   
  3   Experience         252000 non-null  int64                     
