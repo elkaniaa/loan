@@ -82,3 +82,4 @@ Categorical diambil dari Q1,Q2 & Q3 dalam menentukan range
 ## Disusun oleh :
 1. Amarindra Ardinova
 2. Annisa Millah T
+3. Kenneth Wahyudi
