@@ -84,3 +84,4 @@ Categorical diambil dari Q1,Q2 & Q3 dalam menentukan range
 2. Annisa Millah T
 3. Kenneth Wahyudi
 4. Agung Wijaya Putra
+5. Elkania Samanta N
